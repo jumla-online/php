@@ -37,7 +37,7 @@ For more detailed instructions, refer to the documentation provided in the proje
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- Kenneth Jonah
 
 ## License
 
